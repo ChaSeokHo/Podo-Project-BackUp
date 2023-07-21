@@ -26,6 +26,13 @@
 <img src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/8fdaaaa4-427e-4fb0-a558-5801071c1e7d" width="500px" height="500px"> <br>
 
 # 2. 구현 화면
-- 메인화면<br>
-<img width="951" alt="228572827-488748c6-bc43-48f0-848b-537b7e9922ba" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/ce4ebb39-40cf-4d85-a86b-4ba0551da767">
+- **메인화면**<br>
+<img width="953" alt="228572995-f2f9adf2-a216-4df4-9765-2ee2967be23e" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/c120ae77-49c1-4889-8e4f-7f38d289b1a1">
 
+- **회원가입 화면**<br>
+<img width="956" alt="228573168-0fd5d12b-6c83-4925-aa18-c15bc83f9bcc" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/a2310572-a839-46b3-a212-5cd5639a9433">
+
+- **음원 차트,위시리스트 화면**<br>
+<img width="953" alt="228573360-bddff9ad-d9e2-4d41-8bd8-6c3d59e1f53f" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/1b67b917-b2be-4e12-8808-a6e9514ade40"> <br>
+
+<img width="953" alt="228574578-6e69bc8a-94f8-40c9-a482-97c760e1c346" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/15e75711-13ff-4aae-997d-06716af251e4">
