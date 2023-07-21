@@ -19,7 +19,7 @@
   etc : Git, Tomcat 8.5 <br>
 
 ## 프로젝트 기획
-- 요구사항 정의서<br>
+- **요구사항 정의서**<br>
 <img src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/26319d8f-c02c-40f8-99d2-9b41df14a639" width="300px" height="300px"> <br>
 
-- **ERD
+- **ERD**
