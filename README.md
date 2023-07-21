@@ -10,3 +10,11 @@
   강예찬(팀원) : 관리자페이지(메인화면, 회원관리, 음원/공연 CRUD), 멤버십 결제<br>
   박세진(팀장) : 음악 컨트롤러 기능, 관리자페이지(문의사항)<br>
   정택구(팀원) : 회원가입 / 로그인, 차트, 메인페이지<br>
+
+
+- 개발환경
+  Web : Java, JavaScript, Jquery, HTML5, CSS3
+  DataBase : Oracle 11
+  Tool : Eclipse, Visual Studio Code
+  Iaas : AWS
+  etc : Git, Tomcat 8.5
