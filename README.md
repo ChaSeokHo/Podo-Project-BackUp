@@ -1,5 +1,5 @@
 # 🎧PODO MUSIC
-## 1. 프로젝트 소개
+# 1. 프로젝트 소개
 - 개발 기간 : 2022.11.01 ~ 2022.11.17 (17일) <br>
 
 
@@ -24,3 +24,8 @@
 
 - **ERD**<br>
 <img src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/8fdaaaa4-427e-4fb0-a558-5801071c1e7d" width="500px" height="500px"> <br>
+
+# 2. 구현 화면
+- 메인화면<br>
+<img width="951" alt="228572827-488748c6-bc43-48f0-848b-537b7e9922ba" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/ce4ebb39-40cf-4d85-a86b-4ba0551da767">
+
