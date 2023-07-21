@@ -20,4 +20,4 @@
 
 ## 프로젝트 기획
 - 요구사항 정의서<br>
-![220877022-d98c8569-b71c-49cb-9bf7-abc98ecf4f89](https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/26319d8f-c02c-40f8-99d2-9b41df14a639){: width="100px" height="100px"}
+<img src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/26319d8f-c02c-40f8-99d2-9b41df14a639" width="100px" height="100px">
