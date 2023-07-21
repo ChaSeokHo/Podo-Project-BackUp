@@ -33,6 +33,6 @@
 <img width="956" alt="228573168-0fd5d12b-6c83-4925-aa18-c15bc83f9bcc" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/a2310572-a839-46b3-a212-5cd5639a9433">
 
 - **음원 차트,위시리스트 화면**<br>
-<img width="953" alt="228573360-bddff9ad-d9e2-4d41-8bd8-6c3d59e1f53f" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/1b67b917-b2be-4e12-8808-a6e9514ade40"> <br>
+<img width="953" alt="228573360-bddff9ad-d9e2-4d41-8bd8-6c3d59e1f53f" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/1b67b917-b2be-4e12-8808-a6e9514ade40">
 
 <img width="953" alt="228574578-6e69bc8a-94f8-40c9-a482-97c760e1c346" src="https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/15e75711-13ff-4aae-997d-06716af251e4">
