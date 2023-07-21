@@ -20,4 +20,5 @@
 
 ## 프로젝트 기획
 - 요구사항 정의서<br>
-  <img src="qwer.jpg" width="200" height="400"/>
+
+![qwer](https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/b65e0add-e7da-4b23-b8dc-891e1c1abbc9)
