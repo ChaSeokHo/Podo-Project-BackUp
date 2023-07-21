@@ -12,8 +12,8 @@
   정택구(팀원) : 회원가입 / 로그인, 차트, 메인페이지<br>
 
 - 개발환경
-  Web : Java, JavaScript, Jquery, HTML5, CSS3
-  DataBase : Oracle 11
-  Tool : Eclipse, Visual Studio Code
-  Iaas : AWS
-  etc : Git, Tomcat 8.5
+  Web : Java, JavaScript, Jquery, HTML5, CSS3 <br>
+  DataBase : Oracle 11 <br>
+  Tool : Eclipse, Visual Studio Code <br>
+  Iaas : AWS <br>
+  etc : Git, Tomcat 8.5 <br>
