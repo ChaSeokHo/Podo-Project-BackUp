@@ -19,4 +19,5 @@
   etc : Git, Tomcat 8.5 <br>
 
 ## 프로젝트 기획
-- 요규사항 정의서
+- 요구사항 정의서
+![220877022-d98c8569-b71c-49cb-9bf7-abc98ecf4f89](https://github.com/ChaSeokHo/Podo-Project-BackUp/assets/116864886/778c2f03-dc59-41fd-a122-898423aabb3c)
